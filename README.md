@@ -17,6 +17,7 @@ The root already can be bypassed by installing the Xposed module 'Root Cloak' ht
 
 Specifically, the application makes the following check:
 
+```
 protected void showPlayer() {
         Ensighten.evaluateEvent(this, "showPlayer", null);
         this.shouldExecuteOnResume = true;
@@ -28,12 +29,15 @@ protected void showPlayer() {
             playerFragment(new VideoInfo(this.mVideo, this.mSubtitleUrl));
         }
     }
+```
     
 The 'isMarshmallow' method is a boolean that is dependant on the detected API version of the Android device which can be seen below:
 
+```
 private boolean isMarshmallow() {
         Ensighten.evaluateEvent(this, "isMarshmallow", null);
         return VERSION.SDK_INT > 22;
     }
+```
     
 This XPosed module forces the 'isMarshmallow' method to always return 'false' which results in the 'showPlayer' method to function as if the device wasn't running Marshmallow. This forces the player to function normally and lets the custoemr steam the in-flight content.
