@@ -13,7 +13,7 @@ It was discovered that if the aircraft is using the Thales Group system, then th
 * checks for root access
 * checks to see if the customer is using Android version 6.0 (Marshmallow) or above
 
-The root already can be bypassed by installing the Xposed module 'Root Cloak' http://repo.xposed.info/module/com.devadvance.rootcloak2. For that reason, 'Not-So-Friendly-Skies' will not address the root check issue. Instead, it addresses the Android version check issue.
+The root check can already be bypassed by installing the Xposed module 'Root Cloak' http://repo.xposed.info/module/com.devadvance.rootcloak2. For that reason, 'Not-So-Friendly-Skies' will not address the root check issue. Instead, it addresses the Android version check issue.
 
 Specifically, the application makes the following check:
 
