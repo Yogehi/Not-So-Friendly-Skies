@@ -40,4 +40,4 @@ private boolean isMarshmallow() {
     }
 ```
     
-This XPosed module forces the 'isMarshmallow' method to always return 'false' which results in the 'showPlayer' method to function as if the device wasn't running Marshmallow. This forces the player to function normally and lets the custoemr steam the in-flight content.
+This XPosed module forces the 'isMarshmallow' method to always return 'false' which results in the 'showPlayer' method to function as if the device wasn't running Marshmallow. This forces the player to function normally and lets the custoemr stream the in-flight content.
