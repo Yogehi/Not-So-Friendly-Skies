@@ -13,7 +13,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="" />
+            android:value="Assist in allowing a Marshmallow device to use the United inflight entertainment system" />
         <meta-data
             android:name="xposedminversion"
             android:value="53" />
