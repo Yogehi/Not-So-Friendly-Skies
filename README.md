@@ -1,7 +1,5 @@
 # Not-So-Friendly-Skies
 
-TEMP README UNTIL I HAVE MORE TIME TO MAKE A PROPER README
-
 XPosed module to assist Android devices to use United's in-flight entertainment system.
 
 On some United Airlines flights, the company offers their entertainment system via the aircraft's internal WiFi system. The user has the option to connect their person device to the aircraft's WiFi system and watch streaming content that is available on the aircraft. This is achieved by using United's mobile application.
