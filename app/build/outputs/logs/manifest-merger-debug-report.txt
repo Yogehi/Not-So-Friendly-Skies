@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\931d8b0c7e498c3c712b943ef989ecbe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\e478c127b7290fe0aabd17dd082349a8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ad47098d0526c8364a89fa5df2e35498\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\822dfc960a3a4cc5a99d0c018ce25013\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\096a8984d4a78a847336c80f17db63a1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\6e8c46ac820d7f8d68f63df81942ecc5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\02fd8aa6b7e03a0c5493f73635c8ae1d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\1ac5c015c4eccac29452717c3b62cdb3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\33b8fa4c44e14f45104ef86f3f867f0c\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+	package
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:4:5-21:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\931d8b0c7e498c3c712b943ef989ecbe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\931d8b0c7e498c3c712b943ef989ecbe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\e478c127b7290fe0aabd17dd082349a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\e478c127b7290fe0aabd17dd082349a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ad47098d0526c8364a89fa5df2e35498\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ad47098d0526c8364a89fa5df2e35498\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\822dfc960a3a4cc5a99d0c018ce25013\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\822dfc960a3a4cc5a99d0c018ce25013\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\096a8984d4a78a847336c80f17db63a1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\096a8984d4a78a847336c80f17db63a1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\6e8c46ac820d7f8d68f63df81942ecc5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\6e8c46ac820d7f8d68f63df81942ecc5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\02fd8aa6b7e03a0c5493f73635c8ae1d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\02fd8aa6b7e03a0c5493f73635c8ae1d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\1ac5c015c4eccac29452717c3b62cdb3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\1ac5c015c4eccac29452717c3b62cdb3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\33b8fa4c44e14f45104ef86f3f867f0c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\33b8fa4c44e14f45104ef86f3f867f0c\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:9:9-40
+meta-data#xposedmodule
+ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:12:13-40
+meta-data#xposeddescription
+ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:14:9-16:119
+	android:value
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:16:13-116
+	android:name
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:15:13-45
+meta-data#xposedminversion
+ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:17:9-19:34
+	android:value
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:19:13-31
+	android:name
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml:18:13-44
+uses-sdk
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\931d8b0c7e498c3c712b943ef989ecbe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\931d8b0c7e498c3c712b943ef989ecbe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\e478c127b7290fe0aabd17dd082349a8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\e478c127b7290fe0aabd17dd082349a8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ad47098d0526c8364a89fa5df2e35498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ad47098d0526c8364a89fa5df2e35498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\822dfc960a3a4cc5a99d0c018ce25013\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\822dfc960a3a4cc5a99d0c018ce25013\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\096a8984d4a78a847336c80f17db63a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\096a8984d4a78a847336c80f17db63a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\6e8c46ac820d7f8d68f63df81942ecc5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\6e8c46ac820d7f8d68f63df81942ecc5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\02fd8aa6b7e03a0c5493f73635c8ae1d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\02fd8aa6b7e03a0c5493f73635c8ae1d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\1ac5c015c4eccac29452717c3b62cdb3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\1ac5c015c4eccac29452717c3b62cdb3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\33b8fa4c44e14f45104ef86f3f867f0c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\33b8fa4c44e14f45104ef86f3f867f0c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ken Gannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\931d8b0c7e498c3c712b943ef989ecbe\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ken Gannon\Desktop\git\Not-So-Friendly-Skies\app\src\main\AndroidManifest.xml
